@@ -5,8 +5,8 @@
 <br><br>
 
 <div align="center">
-    <img widht="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=wiliston&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wiliston Fabricio Ferraz github stats" />
-    <img widht="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliston&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+    <img widht="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=wiliston&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wiliston Fabricio Ferraz github stats" />
+    <img widht="41%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliston&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=wiliston&theme=gotham&hide_border=true&area=true)
