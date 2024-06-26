@@ -9,7 +9,7 @@
     <img widht="41%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliston&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=wiliston&theme=gotham&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiliston&bg_color=060709&color=0227de&line=1792de&point=e0e40c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19F721&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Para+mais+contato...)](https://git.io/typing-svg)
