@@ -22,7 +22,7 @@
 <hr><br><br>
 
 Linguagens e tecnologias com as quais tenho mais experiência.
-<hr><br><br>
+<br><br>
 <div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -30,6 +30,7 @@ Linguagens e tecnologias com as quais tenho mais experiência.
     <br>
 </div></br>
 Technologies and languages ​​I use most at college.<br>
+<br><br>
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
