@@ -44,6 +44,7 @@ Technologies and languages ​​I use most at college.<br>
 </div><br/><br>
 
 Technologies and languages ​​that I master through courses.<br>
+<br>
 <div style="display: inline_block"><br>
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
